@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Inter;
+    src: url(Inter.ttf);
+}
+
+.tlista {
+    font-family: Inter;
+    font-size: 55px;
+    color: #107300;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imgtlista {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+p {
+    font-size: 100px;
+    
+}
